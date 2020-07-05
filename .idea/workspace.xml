@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccc1986f-1163-4e4f-93c5-d41b64e179db" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools_app_naotu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools_app_naotu.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,10 +16,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools_app_naotu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="102" lean-forward="true" selection-start-line="17" selection-start-column="102" selection-end-line="17" selection-end-column="102" />
+            <state relative-caret-position="480">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -42,6 +59,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tools_app_naotu.html" />
+        <option value="$PROJECT_DIR$/second.html" />
       </list>
     </option>
   </component>
@@ -61,24 +79,6 @@
             <path>
               <item name="PMPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="PMPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PMPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PMPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PMPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PMPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="tools_app_resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PMPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PMPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="tools_app_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,7 +128,9 @@
       <option name="presentableId" value="Default" />
       <updated>1583660957866</updated>
       <workItem from="1583660960293" duration="2963000" />
-      <workItem from="1584864908142" duration="244000" />
+      <workItem from="1584864908142" duration="496000" />
+      <workItem from="1591680872020" duration="481000" />
+      <workItem from="1593933182346" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1583661446452</created>
@@ -151,11 +153,25 @@
       <option name="project" value="LOCAL" />
       <updated>1583668357125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改">
+      <created>1584865349446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584865349447</updated>
+    </task>
+    <task id="LOCAL-00005" summary="随机数">
+      <created>1591680914504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591680914504</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3207000" />
+    <option name="totallyTimeSpent" value="4148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -187,11 +203,14 @@
     <MESSAGE value="首次提交" />
     <MESSAGE value="添加原型图" />
     <MESSAGE value="添加汇率" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加汇率" />
+    <MESSAGE value="修改" />
+    <MESSAGE value="随机数" />
+    <option name="LAST_COMMIT_MESSAGE" value="随机数" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resource/tools_app_naotu.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/resource/tools_app_naotu.html" />
+    <entry file="file://$PROJECT_DIR$/resource/tools_app_resource/images/tools_app_image.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -200,13 +219,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/tools_app_resource/images/tools_app_image.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tools_app_naotu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="102" lean-forward="true" selection-start-line="17" selection-start-column="102" selection-end-line="17" selection-end-column="102" />
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
